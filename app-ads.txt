@@ -1,4 +1,3 @@
-google.com, pub-9333699669256504, DIRECT, f08c47fec0942fa0
 
 betweendigital.com, 45827, RESELLER
 smartadserver.com, 4972, RESELLER, 060d053dcf45cbf3
